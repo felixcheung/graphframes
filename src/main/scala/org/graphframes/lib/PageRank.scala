@@ -17,7 +17,7 @@
 
 package org.graphframes.lib
 
-import org.apache.spark.graphx.{lib => graphxlib}
+import org.apache.spark.graphx.lib.{backport => graphxlib}
 
 import org.graphframes.GraphFrame
 
